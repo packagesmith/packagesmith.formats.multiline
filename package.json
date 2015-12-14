@@ -39,7 +39,7 @@
     "lodash.uniq": "^3.2.2"
   },
   "devDependencies": {
-    "babel": "^5.8.34",
+    "babel": "^6.3.13",
     "babel-eslint": "^4.1.6",
     "chai": "^3.3.0",
     "chai-spies": "^0.7.1",
