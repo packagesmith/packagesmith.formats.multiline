@@ -6,14 +6,17 @@
   "bugs": "http://github.com/keithamus/packagesmith.formats.multiline/issues",
   "license": "MIT",
   "author": "Keith Cirkel (http://keithcirkel.co.uk)",
-  "main": "index.js",
+  "files": [
+    "lib/"
+  ],
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/packagesmith/packagesmith.formats.mutliline.git"
   },
   "scripts": {
     "lint": "eslint src test --ignore-path .gitignore",
-    "prepublish": "babel src -d .",
+    "prepublish": "babel src -d lib",
     "pretest": "npm run lint",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post",
     "test": "mocha --recursive test/ --compilers js:babel/register",
