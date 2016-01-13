@@ -39,7 +39,7 @@
     "parser": "babel-eslint"
   },
   "dependencies": {
-    "lodash.uniq": "^3.2.2"
+    "lodash.uniq": "^4.0.0"
   },
   "devDependencies": {
     "babel": "^5.8.34",
