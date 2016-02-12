@@ -46,7 +46,7 @@
     "babel-eslint": "^4.1.6",
     "chai": "^3.3.0",
     "chai-spies": "^0.7.1",
-    "eslint": "^1.10.3",
+    "eslint": "^2.0.0",
     "eslint-config-strict": "^7.0.3",
     "eslint-plugin-filenames": "^0.2.0",
     "ghooks": "^1.0.1",
