@@ -47,7 +47,7 @@
     "parser": "babel-eslint"
   },
   "dependencies": {
-    "lodash.uniq": "^4.1.0"
+    "lodash.uniq": "^4.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.5.1",
