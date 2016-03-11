@@ -58,7 +58,7 @@
     "babel-register": "^6.5.2",
     "chai": "^3.5.0",
     "chai-spies": "^0.7.1",
-    "eslint": "^2.1.0",
+    "eslint": "^2.4.0",
     "eslint-config-strict": "^8.2.0",
     "eslint-plugin-filenames": "^0.2.0",
     "ghooks": "^1.0.3",
